@@ -1,13 +1,14 @@
 # Anchor 
-Praticar conceitos para construcao de layouts em IOS
-
-## Moticao
+ Praticar conceitos para construção de layouts em IOS 
+ 
+ 
+## Motivação
 Entneder o uso de Anchor em IOS
 
 
 ## Feature
-- Aprendi a construcao de interfaces no IOS
-- Aprendi constuir de forma dinamica uma view e maneira fixa
+- Aprendi a construção de interfaces no IOS
+- Aprendi construir de forma dinâmica uma view e maneira fixa
 - Centralizar ele no eixo x e y
 
 
